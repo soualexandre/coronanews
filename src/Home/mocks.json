@@ -1,0 +1,30 @@
+[
+  {
+    "id": "1",
+    "name": "Confirmados",
+    "saleoff": "201",
+    "time": "12/07",
+    "image": "https://image.freepik.com/vetores-gratis/jovem-doente-tosse-dor-de-garganta-ilustracao-em-vetor-moderno-estilo-plano-cartoon-personagem-isolado_92289-343.jpg"
+  },
+  {
+    "id": "2",
+    "name": "Recuperados",
+    "saleoff": "170",
+    "time": "12/07",
+    "image": "https://thumbs.dreamstime.com/b/ilustra%C3%A7%C3%A3o-surpreendida-feliz-do-vetor-da-mulher-pessoa-alegre-entusiasmado-dos-desenhos-animados-lisos-com-sorriso-na-cara-95829449.jpg"
+  },
+  {
+    "id": "3",
+    "name": "Hospitalizados",
+    "saleoff": "55",
+    "time": "12/07",
+    "image": "https://image.freepik.com/vetores-gratis/tema-de-coronavirus-com-menino-doente-na-cama-do-hospital_1308-42061.jpg"
+  },
+  {
+    "id": "3",
+    "name": "Mortos",
+    "saleoff": "10",
+    "time": "12/07",
+    "image": "https://thumbs.dreamstime.com/b/cara-de-grito-da-crian%C3%A7a-triste-vetor-bonito-menina-dos-desenhos-animados-102400451.jpg"
+  }
+]

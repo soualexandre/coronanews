@@ -1,0 +1,27 @@
+[
+  {
+    "price": "Jardim Paulista",
+    "rating": "30",
+    "saleoff": "55"
+  },
+  {
+    "price": "Setor Oeste",
+    "rating": "10",
+    "saleoff": "15"
+  },
+  {
+    "price": "Centro",
+    "rating": "9",
+    "saleoff": "55"
+  },
+  {
+    "price": "Centro",
+    "rating": "6",
+    "saleoff": "15"
+  },
+  {
+    "price": "Centro",
+    "rating": "4",
+    "saleoff": "16"
+  }
+]
